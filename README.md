@@ -25,7 +25,7 @@ Paper:
 * numpy  1.18.5
 
 # Guide 
- In this code library, we provide three graph constrcution methods (`KnnGraph`, `RadiusGraph`, and `PathGraph`), and two different input types (`Frequency domain` and `time domain`). Besides, seven GNNs and four graph pooling methods are implemented.
+ We provide a novel intelligent fault diagnostics and prognostics framework based on GNNs. The framework consists of two branches, that is, the node-level fault diagnostics architecture and graph-level fault diagnostics or regression architecture. In node-level fault diagnosis, each node of a graph is considered as a sample, while the entire graph is considered as a sample in graph-level fault diagnosis. In this code library, we provide three graph constrcution methods (`KnnGraph`, `RadiusGraph`, and `PathGraph`), and two different input types (`Frequency domain` and `time domain`). Besides, seven GNNs and four graph pooling methods are implemented. 
  
 # Pakages
 * `datasets` contians the data load method for different dataset
