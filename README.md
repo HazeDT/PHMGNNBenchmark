@@ -6,7 +6,12 @@
 # Implementation of the paper:
 Paper:
 ```
-Tianfu Li, Zheng Zhou, Sinan Li, Chuang Sun, Ruqiang Yan, Xuefeng Chen, “The emerging graph neural networks for intelligent fault diagnostics and prognostics: A guideline and a benchmark study,” Mechanical Systems and Signal Processing, 2021. DOI: j.ymssp.2021.108653 
+@article{PHMGNNBenchmark,
+  title={The emerging graph neural networks for intelligent fault diagnostics and prognostics: A guideline and a benchmark study},
+  author={Tianfu Li and Zheng Zhou and Sinan Li  and Chuang Sun and Ruqiang Yan and Xuefeng Chen,},
+  journal={Mechanical Systems and Signal Processing},
+  Doi = {j.ymssp.2021.108653},
+  year={2022}
 }
 ```
 
