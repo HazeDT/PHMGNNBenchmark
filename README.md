@@ -28,13 +28,12 @@ Paper:
 ## For fault diagnostic
   * Node level fault daignostic <br>
   python  ./train_graph_diagnosis.py --model_name GCN --data_name XJTUGearboxRadius --data_dir ./data/XJTUGearbox/XJTUGearboxRadius.pkl  --Input_type TD  --task Node   --checkpoint_dir ./checkpoint 
-### The data for runing the demo
-   In order to facilitate your implementation, we give some processed data here for node level task [Data for demo](https://drive.google.com/drive/folders/1px8KlGmWQ1SGkG-SKsw_j4tNDCsNI_38?usp=sharing).
   * Graph level fault daignostic <br>
   python  ./train_graph_diagnosis.py --model_name GCN --data_name XJTUGearboxRadius --data_dir ./data/XJTUGearbox --Input_type TD  --task Graph --pooltype EdgePool  --checkpoint_dir ./checkpoint
 ## For prognostic 
   python  ./train_graph_prognosis.py --model_name GCN --pooltype EdgePool --data_name CMAPSS_graph --data_file FD001 --data_dir ./data/CMAPSS/ --checkpoint_dir ./checkpoint/FD001
-
+## The data for runing the demo
+   In order to facilitate your implementation, we give some processed data here for node level fault diagnosis and graph level prognosis [Data for demo](https://drive.google.com/drive/folders/1px8KlGmWQ1SGkG-SKsw_j4tNDCsNI_38?usp=sharing).
    
 # Datasets
 ## Self-collected datasets
