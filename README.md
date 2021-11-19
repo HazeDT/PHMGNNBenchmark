@@ -1,12 +1,13 @@
 # PHMGNNBenchmark
-# The emerging graph neural networks for intelligent fault diagnostics and prognostics: A guideline and a benchmark study
+## The emerging graph neural networks for intelligent fault diagnostics and prognostics: A guideline and a benchmark study
 ![PHMGNNBenchmark](https://github.com/HazeDT/PHMGNNBenchmark/blob/main/logo2.png)
 
 
 # Implementation of the paper:
      The emerging graph neural networks for intelligent fault diagnostics and prognostics: A guideline and a benchmark study
     by Tianfu Li, Zheng Zhou, Sinan Li, et al.
-    
+![PHMGNNBenchmark](https://github.com/HazeDT/PHMGNNBenchmark/blob/main/Framework.png)
+
 # Requirements
 * Python 3.8 or newer
 * torch-geometric 1.6.1
