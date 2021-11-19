@@ -8,7 +8,7 @@ Paper:
 ```
 @article{PHMGNNBenchmark,
   title={The emerging graph neural networks for intelligent fault diagnostics and prognostics: A guideline and a benchmark study},
-  author={Tianfu Li and Zheng Zhou and Sinan Li  and Chuang Sun and Ruqiang Yan and Xuefeng Chen,},
+  author={Tianfu Li and Zheng Zhou and Sinan Li and Chuang Sun and Ruqiang Yan and Xuefeng Chen},
   journal={Mechanical Systems and Signal Processing},
   Doi = {j.ymssp.2021.108653},
   year={2022}
@@ -27,13 +27,13 @@ Paper:
 # Run the code
 ## For fault diagnostic
   * Node level fault daignostic <br>
-  python  ./train_graph_diagnosis.py --model_name GCN --data_dir ./data/XJTU_Spurgear  --Input_type TD  --task Node   --checkpoint_dir ./checkpoint
+  python  ./train_graph_diagnosis.py --model_name GCN --data_name XJTUGearboxRadius --data_dir ./data/XJTUGearbox/XJTUGearboxRadius.pkl  --Input_type TD  --task Node   --checkpoint_dir ./checkpoint 
   * Graph level fault daignostic <br>
-  python  ./train_graph_diagnosis.py --model_name GCN --data_dir ./data/XJTU_Spurgear  --Input_type TD  --task Graph --pooltype EdgePool  --checkpoint_dir ./checkpoint
+  python  ./train_graph_diagnosis.py --model_name GCN --data_name XJTUGearboxRadius --data_dir ./data/XJTUGearbox --Input_type TD  --task Graph --pooltype EdgePool  --checkpoint_dir ./checkpoint
 ## For prognostic 
-  python  ./train_graph_prognosis.py --model_name GCN --pooltype EdgePool --data_name CMAPSS_graph --data_file FD001 --data_dir ./data/CMAPSS --checkpoint_dir ./checkpoint/FD001
+  python  ./train_graph_prognosis.py --model_name GCN --pooltype EdgePool --data_name CMAPSS_graph --data_file FD001 --data_dir ./data/CMAPSS/ --checkpoint_dir ./checkpoint/FD001
 ## The data for runing the demo
-   In order to facilitate your implementation, we give some processed data here [Data for demo](https://drive.google.com/drive/folders/1px8KlGmWQ1SGkG-SKsw_j4tNDCsNI_38?usp=sharing).
+   In order to facilitate your implementation, we give some processed data here for node level task [Data for demo](https://drive.google.com/drive/folders/1px8KlGmWQ1SGkG-SKsw_j4tNDCsNI_38?usp=sharing).
    
 # Datasets
 ## Self-collected datasets
