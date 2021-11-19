@@ -23,14 +23,14 @@ Tianfu Li, Zheng Zhou, Sinan Li, Chuang Sun, Ruqiang Yan, Xuefeng Chen, “The e
 ## For prognostic 
   python  ./train_graph_prognosis.py --model_name GCN --pooltype EdgePool --data_name CMAPSS_graph --data_file FD001 --data_dir ./data/CMAPSS --checkpoint_dir ./checkpoint/FD001
 ## The data for runing the demo
-   In order to facilitate your implementation, we have given some processed data. [Data for demo] (https://drive.google.com/drive/folders/1px8KlGmWQ1SGkG-SKsw_j4tNDCsNI_38?usp=sharing)
+   In order to facilitate your implementation, we have given some processed data. [Data for demo](https://drive.google.com/drive/folders/1px8KlGmWQ1SGkG-SKsw_j4tNDCsNI_38?usp=sharing)
    
 # Datasets
 ## Self-collected datasets
-* [XJTUSpurgear Dataset] (https://drive.google.com/drive/folders/1ejGZu9oeL1D9nKN07Q7z72O8eFrWQTay?usp=sharing)
-* [XJTUGearbox Dataset] (https://drive.google.com/drive/folders/1ejGZu9oeL1D9nKN07Q7z72O8eFrWQTay?usp=sharing)
+* [XJTUSpurgear Dataset](https://drive.google.com/drive/folders/1ejGZu9oeL1D9nKN07Q7z72O8eFrWQTay?usp=sharing)
+* [XJTUGearbox Dataset](https://drive.google.com/drive/folders/1ejGZu9oeL1D9nKN07Q7z72O8eFrWQTay?usp=sharing)
 ## Open source datasets
-* [CWRU Bearing Dataset] (https://engineering.case.edu/bearingdatacenter)
-* [MFPT Bearing Dataset] (https://www.mfpt.org/fault-data-sets/)
-* [PU Bearing Dataset] (https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/)
-* [SEU Gearbox Dataset] (https://github.com/cathysiyu/Mechanical-datasets)
+* [CWRU Bearing Dataset](https://engineering.case.edu/bearingdatacenter)
+* [MFPT Bearing Dataset](https://www.mfpt.org/fault-data-sets/)
+* [PU Bearing Dataset](https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/)
+* [SEU Gearbox Dataset](https://github.com/cathysiyu/Mechanical-datasets)
