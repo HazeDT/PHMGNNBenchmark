@@ -23,7 +23,7 @@ Tianfu Li, Zheng Zhou, Sinan Li, Chuang Sun, Ruqiang Yan, Xuefeng Chen, “The e
 ## For prognostic 
   python  ./train_graph_prognosis.py --model_name GCN --pooltype EdgePool --data_name CMAPSS_graph --data_file FD001 --data_dir ./data/CMAPSS --checkpoint_dir ./checkpoint/FD001
 ## The data for runing the demo
-   In order to facilitate your implementation, we have given some processed data. [Data for demo](https://drive.google.com/drive/folders/1px8KlGmWQ1SGkG-SKsw_j4tNDCsNI_38?usp=sharing)
+   In order to facilitate your implementation, we give some processed data here [Data for demo](https://drive.google.com/drive/folders/1px8KlGmWQ1SGkG-SKsw_j4tNDCsNI_38?usp=sharing).
    
 # Datasets
 ## Self-collected datasets
