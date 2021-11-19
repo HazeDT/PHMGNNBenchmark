@@ -4,7 +4,12 @@
 
 
 # Implementation of the paper:
-Tianfu Li, Zheng Zhou, Sinan Li, Chuang Sun, Ruqiang Yan, Xuefeng Chen, “The emerging graph neural networks for intelligent fault diagnostics and prognostics: A guideline and a benchmark study,” Mechanical Systems and Signal Processing, 2021. DOI: j.ymssp.2021.108653
+Paper:
+```
+Tianfu Li, Zheng Zhou, Sinan Li, Chuang Sun, Ruqiang Yan, Xuefeng Chen, “The emerging graph neural networks for intelligent fault diagnostics and prognostics: A guideline and a benchmark study,” Mechanical Systems and Signal Processing, 2021. DOI: j.ymssp.2021.108653 
+}
+```
+
 ![PHMGNNBenchmark](https://github.com/HazeDT/PHMGNNBenchmark/blob/main/Framework.png)
 
 # Requirements
