@@ -25,8 +25,12 @@ Paper:
 * numpy  1.18.5
 
 # Guide 
- In this code library, we provide three graph constrcution methods (`KnnGraph`, `RadiusGraph`, and `PathGraph`), and three different types (`Frequency domain` and `time domain`). Besides, seven GNNs and four graph pooling methods are implemented. 
-
+ In this code library, we provide three graph constrcution methods (`KnnGraph`, `RadiusGraph`, and `PathGraph`), and two different input types (`Frequency domain` and `time domain`). Besides, seven GNNs and four graph pooling methods are implemented.
+ 
+# Pakages
+* `datasets` contians the data load method for different dataset
+* `model` contians the implemented model for nodel-level task
+* `model2` contians the implemented modle for graph-level rask
 
 # Run the code
 ## For fault diagnostic
@@ -37,7 +41,7 @@ Paper:
 ## For prognostic 
   python  ./train_graph_prognosis.py --model_name GCN --pooltype EdgePool --data_name CMAPSS_graph --data_file FD001 --data_dir ./data/CMAPSS/ --checkpoint_dir ./checkpoint/FD001
 ## The data for runing the demo
-   In order to facilitate your implementation, we give some processed data here for node level fault diagnosis and graph level prognosis [`Data for demo`](https://drive.google.com/drive/folders/1px8KlGmWQ1SGkG-SKsw_j4tNDCsNI_38?usp=sharing).
+   In order to facilitate your implementation, we give some processed data here for node level-fault diagnosis and graph-level prognosis [`Data for demo`](https://drive.google.com/drive/folders/1px8KlGmWQ1SGkG-SKsw_j4tNDCsNI_38?usp=sharing).
    
 # Datasets
 ## Self-collected datasets
