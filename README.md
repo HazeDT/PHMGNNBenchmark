@@ -30,7 +30,7 @@ Paper:
 # Pakages
 * `datasets` contians the data load method for different dataset
 * `model` contians the implemented model for nodel-level task
-* `model2` contians the implemented modle for graph-level rask
+* `model2` contians the implemented model for graph-level rask
 
 # Run the code
 ## For fault diagnostic
