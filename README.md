@@ -24,6 +24,10 @@ Paper:
 * pandas  1.0.5
 * numpy  1.18.5
 
+# Guide 
+ In this code library, we provide three graph constrcution methods (KnnGraph, RadiusGraph, and PathGraph), and three different types (Frequency domain and time domain). Besides, seven GNNs and four graph pooling methods are implemented. 
+
+
 # Run the code
 ## For fault diagnostic
   * Node level fault daignostic <br>
