@@ -53,7 +53,7 @@ Paper:
 * [MFPT Bearing Dataset](https://www.mfpt.org/fault-data-sets/)
 * [PU Bearing Dataset](https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/)
 * [SEU Gearbox Dataset](https://github.com/cathysiyu/Mechanical-datasets)
-## Prognostic
+## Prognostic datasets
 * [CMAPSS dataset](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/)
 * [PHM2010 dataset](https://phmsociety.org/phm_competition/2010-phm-society-conference-data-challenge/)
 
