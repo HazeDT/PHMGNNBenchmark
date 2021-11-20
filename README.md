@@ -44,11 +44,16 @@ Paper:
    In order to facilitate your implementation, we give some processed data here for node level-fault diagnosis and graph-level prognosis [`Data for demo`](https://drive.google.com/drive/folders/1px8KlGmWQ1SGkG-SKsw_j4tNDCsNI_38?usp=sharing).
    
 # Datasets
-## Self-collected datasets
+## Fault diagnostic datasets
+### Self-collected datasets
 * [XJTUSpurgear Dataset](https://drive.google.com/drive/folders/1ejGZu9oeL1D9nKN07Q7z72O8eFrWQTay?usp=sharing)
 * [XJTUGearbox Dataset](https://drive.google.com/drive/folders/1ejGZu9oeL1D9nKN07Q7z72O8eFrWQTay?usp=sharing)
-## Open source datasets
+### Open source datasets
 * [CWRU Bearing Dataset](https://engineering.case.edu/bearingdatacenter)
 * [MFPT Bearing Dataset](https://www.mfpt.org/fault-data-sets/)
 * [PU Bearing Dataset](https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/)
 * [SEU Gearbox Dataset](https://github.com/cathysiyu/Mechanical-datasets)
+## Prognostic
+* [CMAPSS dataset](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/)
+* [PHM2010 dataset](https://phmsociety.org/phm_competition/2010-phm-society-conference-data-challenge/)
+
