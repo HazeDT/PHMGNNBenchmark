@@ -57,3 +57,5 @@ Paper:
 * [CMAPSS dataset](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/)
 * [PHM2010 dataset](https://phmsociety.org/phm_competition/2010-phm-society-conference-data-challenge/)
 
+# Note
+This code library is run under the windows operating system. If you run under the linux operating system, you need to delete the ‘/tmq’ before the path in the dataset to avoid path errors.
