@@ -58,4 +58,4 @@ Paper:
 * [PHM2010 dataset](https://phmsociety.org/phm_competition/2010-phm-society-conference-data-challenge/)
 
 # Note
-This code library is run under the `windows operating system`. If you run under the `linux operating system`, you need to delete the ‘/tqm’ before the path in the dataset to avoid path errors.
+This code library is run under the `windows operating system`. If you run under the `linux operating system`, you need to delete the `‘/tmp’` before the path in the `dataset` to avoid path errors.
