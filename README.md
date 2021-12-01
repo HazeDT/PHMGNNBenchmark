@@ -1,5 +1,5 @@
 # PHMGNNBenchmark
-## [The emerging graph neural networks for intelligent fault diagnostics and prognostics: A guideline and a benchmark study](https://www.sciencedirect.com/science/article/pii/S0888327021009791?dgcid=author)
+## [The emerging graph neural networks for intelligent fault diagnostics and prognostics: A guideline and a benchmark study](https://www.sciencedirect.com/science/article/pii/S0888327021009791)
 ![PHMGNNBenchmark](https://github.com/HazeDT/PHMGNNBenchmark/blob/main/logo2.png)
 
 
