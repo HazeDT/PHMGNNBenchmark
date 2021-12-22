@@ -64,6 +64,6 @@ Paper:
 # Note
 This code library is run under the `windows operating system`. If you run under the `linux operating system`, you need to delete the `‘/tmp’` before the path in the `dataset` to avoid path errors.
 # Related works
-* [Li et al. Multireceptive Field Graph Convolutional Networks for Machine Fault Diagnosis,IEEE Transactions on Industrial Electronics](https://ieeexplore.ieee.org/abstract/document/9280401)
-* [Li et al. Domain Adversarial Graph Convolutional Network for Fault Diagnosis Under Variable Working Conditions](https://ieeexplore.ieee.org/abstract/document/9410617)
-* [Li et al. Hierarchical attention graph convolutional network to fuse multi-sensor signals for remaining useful life prediction](https://www.sciencedirect.com/science/article/abs/pii/S0951832021003975)
+* [Li et al. Multireceptive Field Graph Convolutional Networks for Machine Fault Diagnosis, IEEE Transactions on Industrial Electronics](https://ieeexplore.ieee.org/abstract/document/9280401)
+* [Li et al. Domain Adversarial Graph Convolutional Network for Fault Diagnosis Under Variable Working Conditions, IEEE Transactions on Instrumentation and Measurement ](https://ieeexplore.ieee.org/abstract/document/9410617)
+* [Li et al. Hierarchical attention graph convolutional network to fuse multi-sensor signals for remaining useful life prediction, Reliability Engineering & System Safety](https://www.sciencedirect.com/science/article/abs/pii/S0951832021003975)
